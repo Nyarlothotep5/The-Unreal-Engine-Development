@@ -1,0 +1,17 @@
+concept:
+- simple core concept - escape the room
+- you awaken in a locked room, unable to escape
+- environmental clues (light / sound) to determine next steps
+- trigger pressure plates, solve puzzles
+
+rules:
+- no lose condition
+- you can do anything, try things
+- win by escaping the room
+
+requirements:
+- unreal's provided starter content pack
+- c++ code, blueprint
+- various sound effects
+- sketches for room layout
+- sketches for how puzzle work

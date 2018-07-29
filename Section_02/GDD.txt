@@ -1,0 +1,31 @@
+Problem:
+- proving myself
+- learning
+
+concept, rulse:
+- 'guess the isogram' game
+- 'isogram' = word with no repeating letters
+- limited number of guesses
+- after each guess, game outputs BULL or COW
+	bull = right letter in the right place
+	cow = right letter in the wrong place
+- win by guessing
+
+requirements:
+- what input? what format?		
+- what outputs?
+- what tasks?
+- performance limits?
+- what assets do I need?
+
+- just text
+- help player make the right guess
+- checking number of cows and bulls in guessed word
+- keeping track of number of valid guesses
+
+possible in the future:
+- feedback on every key press
+- dictionary of words
+- selectable difficulty, word length
+- time limit?
+- hints?
