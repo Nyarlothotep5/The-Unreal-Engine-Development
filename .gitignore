@@ -4,7 +4,7 @@
 **/DerivedDataCache/
 **/Build/
 **/Saved/
-**/Content/
+**/StarterContent/
 
 #VS
 **/*.VC.db
