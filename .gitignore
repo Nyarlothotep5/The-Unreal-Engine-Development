@@ -1,13 +1,9 @@
-#################
-# Unreal Engine #
-#################
+#Unreal
 **/Intermediate/
 **/Binaries/
 **/DerivedDataCache/
 **/Build/
 **/Saved/
 
-######
-# VS #
-######
+#VS
 **/*.VC.db
